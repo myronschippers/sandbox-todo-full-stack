@@ -33,6 +33,9 @@ Full Stack JS application for education purposes. This application will be using
     - refresh route in browser and see new message but app is running but what about the test
   - check the tests `npm run test`
 1. Adding to a GitHub repo
+  - show GitHub repo creation
+  - show running GitHub commands to attach remote and switch branch to `main`
+  - update `README.md` documentation for our repo
 
 ## Installation
 
