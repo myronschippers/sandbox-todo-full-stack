@@ -12,6 +12,6 @@ export class AppController {
 
   @Get('say-something')
   saySomething(): string {
-    return 'Is this thing on?';
+    return this.appService.saySomething();
   }
 }
