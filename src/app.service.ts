@@ -7,6 +7,6 @@ export class AppService {
   }
 
   saySomething(): string {
-    return 'New Message';
+    return 'Is this thing on?';
   }
 }
